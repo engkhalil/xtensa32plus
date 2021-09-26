@@ -1,0 +1,6 @@
+{
+    "xtensa":"xtensa32plus.ddns.net:50",
+    "dev":"xtensa32plus.ddns.net:51",
+    "webHost":"http://xtensa32plus.ddns.net:90",
+    "xtensaJson":"data:{\"xtensa\":\"xtensa32plus.ddns.net:50\",\"dev\":\"xtensa32plus.ddns.net:51\",\"webHost\":\"http://xtensa32plus.ddns.net:90\"}<@>"
+}
